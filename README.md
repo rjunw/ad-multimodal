@@ -4,3 +4,4 @@ Multi-modal learning for Alzheimer's and self-supervised contrastive learning wi
 
 We also do a tabular data analysis with genetic, demographic, and clinical data.
 
+To reproduce, download the linked data, or retrieve Luria cluster access with UK Biobank approval, and then run the provided notebooks. For the `contrastive_genesim.ipynb` notebook, switch the file directories. Otherwise, simply use the provided source code and functions in the same manner as the notebook.
